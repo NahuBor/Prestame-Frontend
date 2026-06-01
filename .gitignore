@@ -23,8 +23,6 @@ yarn-error.log
 # Visual Studio Code
 .vscode/
 
-
-
 # Miscellaneous
 /.angular/cache
 .sass-cache/
